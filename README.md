@@ -9,4 +9,4 @@ Bolo treba sťahovať tweety z nejakého účtu.
 
 # Fórum - KSP fórum
 
-Úlohou bolo stiahnuť nejaké študentom vybrané fórum. Odporúčam vybrať nejaké z API nech sa s tým nemusíte serkať.
+Úlohou bolo stiahnuť nejaké študentom vybrané fórum. Odporúčam vybrať nejaké z API, nech sa s tým nemusíte serkať.
